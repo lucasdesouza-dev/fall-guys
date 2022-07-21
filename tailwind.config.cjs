@@ -10,9 +10,10 @@ module.exports = {
       }
     },
     fontFamily: {
-      "Poppins500": "Poppins"
+      "Poppins700": "Poppins"
     }, fontSize: {
       bv: ['28px', '42px'],
+      fgu: ['64px', '96px'],
     }
   },
   plugins: [],
